@@ -1,0 +1,2 @@
+main-class: com.itra.Game
+class-path: bin/
